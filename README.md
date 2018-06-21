@@ -2,7 +2,7 @@
 a GTK2,and GTK3 file for the Gnome-desktop
 
 
-![s](https://cn.pling.com/img/6/6/d/b/a3f4d4dfbb6340c0e6a75bd68d38c8c2c527.jpg)
+![s](https://cn.pling.com/img/b/7/7/2/b72f85db98df26124d4638bb592327aa7b1a.jpg)
 
 
 
