@@ -1,2 +1,2 @@
-# corporatrin-gtk
-A GTK-theme for the gnome desktop
+# Arrongin-GTK
+a GTK2,and GTK3 file for the Gnome-desktop
